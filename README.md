@@ -1,4 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Array Methods
+
+```
+arr.push()
+arr.pop()
+arr.shift()
+arr.splice()
+arr.slice()
+arr.concat()
+arr.forEach()
+arr.indexOf()
+arr.lastIndexOf()
+arr.includes(item,from)
+arr.find and findIndex
+arr.filter()
+arr.map()
+arr.sort()
+arr.reverse()
+arr.split and join
+arr.reduce/reduceRight
+arr.isArray()
+```
 
 ## Available Scripts
 
